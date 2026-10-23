@@ -31,3 +31,7 @@ This project analyzes customer shopping behavior using Power BI to identify sale
 
 ### Conclusion
 This project demonstrates practical skills in data analysis, data visualization, DAX calculations, and business insight generation using Power BI.
+
+### Screenshot Dashboard preview: C:\Users\B HONEY\Pictures\Screenshots
+
+
